@@ -1,2 +1,10 @@
 # research-timetable
 卒業論文の付録の時間割の自動導出プログラムです。
+
+sythesizing_timetable.pyは時間割の自動導出のプログラムです。
+input_timetable.pyはExcelから情報をプログラム上に取得するためのプログラムです。
+outpupt_timetable.pyはExcel上へ自動導出した時間割情報を出力するプログラムです。
+
+synthsizing_timetable.pyがメインのプログラムとなり、その他のプログラムを呼び出して動作します。
+
+アップロードしてあるExcelファイルを参考に自動導出した時間割の情報を記述すると動きます。
